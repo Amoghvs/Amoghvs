@@ -6,10 +6,11 @@
   <img align="left" alt="Amogh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+<a href="https://www.linkedin.com/in/amoghsondur/" style="color: black;" class="fa fa-linkedin"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 
 <br />
 
-Hi, I'm [Amogh Sondur](https://amoghsondur.com/), a Data Science Grad Student at Illinois Tech Chicago, IL <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, Former Data Science Intern 🙍🏽‍♂️ [@Forkaia](https://www.forkaia.com/)
+Hi, I'm [Amogh Sondur](https://amoghsondur.com/), a Data Science Grad Student at Illinois Tech Chicago, IL <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Former Data Science Intern 🙍🏽‍♂️ [@Forkaia](https://www.forkaia.com/)
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
