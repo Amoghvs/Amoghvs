@@ -4,7 +4,7 @@ I'm [Amogh Sondur](https://amoghsondur.com/), Data Science Grad Student at Illin
 <br>
 My interests can be broadly classified in Machine Learning, Data Science ,and NLP. I have immense love for technology and I'm currently exploring the realm of Data Science. Apart from this, I spend my free time exploring new places, photography, write articles, and listening to music
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/Amoghvs/Amoghvs/blob/main/code.gif?raw=true" width="500" height="320" />
   
 
 - 👨🏽‍💻 I’m currently working on [Fake News Classifier](https://github.com/Amoghvs/Fake-News-Classifier)
