@@ -8,7 +8,7 @@ My interests can be broadly classified in Machine Learning, Data Science ,and NL
   
 
 
-- 💬 Ask me about anything (Tech), I am happy to help
+- 💬 Ask me about anything (Tech), I will be happy to help
 - 📫 How to reach me: 
   - :briefcase: [LinkedIn](https://www.linkedin.com/in/amoghsondur/)
   - :email:[Email](mailto:asondur@hawk.iit.edu)
