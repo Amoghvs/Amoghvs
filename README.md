@@ -7,8 +7,7 @@ My interests can be broadly classified in Machine Learning, Data Science ,and NL
   <img align="right" alt="GIF" src="https://github.com/Amoghvs/Amoghvs/blob/main/code.gif?raw=true" width="500" height="320" />
   
 
-- 👨🏽‍💻 I’m currently working on [Fake News Classifier](https://github.com/Amoghvs/Fake-News-Classifier)
-- 🌱 I’m currently learning DeepLearning and Tableau
+
 - 💬 Ask me about anything (Tech), I am happy to help
 - 📫 How to reach me: 
   - :briefcase: [LinkedIn](https://www.linkedin.com/in/amoghsondur/)
