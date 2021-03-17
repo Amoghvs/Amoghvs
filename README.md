@@ -14,7 +14,7 @@ My interests can be broadly classified in Machine Learning, Data Science ,and NL
   - :email:[Email](mailto:asondur@hawk.iit.edu)
   
   
-[![Amogh's github stats](https://github-readme-stats.vercel.app/api?username=amoghvs&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Amogh's github stats](https://github-readme-stats.vercel.app/api?username=amoghvs&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
   
